@@ -1,0 +1,7 @@
+/venv*
+/app/__pycache__
+app/model/_pycache*
+app/schemas/_pycache*
+app/service/_pycache*
+.pytest_cache
+/tests/__pycache__

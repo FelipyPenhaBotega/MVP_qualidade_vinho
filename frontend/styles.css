@@ -1,0 +1,47 @@
+body {
+    background-color: #f8f9fa;
+}
+
+header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.title p {
+    margin-bottom: 10px;
+}
+
+.newItem {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.addBtn {
+    margin-top: 10px;
+}
+
+.items {
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #dee2e6;
+    padding: 8px;
+    text-align: center;
+}
+
+.predictions {
+    margin-top: 20px;
+}
+
+/* Adicione estilos adicionais conforme necessário */
